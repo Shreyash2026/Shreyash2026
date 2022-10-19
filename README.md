@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shreyash2026
 - 👀 I’m interested in ... Java programming and front end backend development
-- 🌱 I’m currently learning ...b.ech (cse)
+- 🌱 I’m currently learning ...b.tech (cse)
 - 💞️ I’m looking to collaborate on ...google
 - 📫 How to reach me ...my insta id fb id and linked in
 
